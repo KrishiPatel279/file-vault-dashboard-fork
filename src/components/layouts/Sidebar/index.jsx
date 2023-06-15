@@ -52,7 +52,7 @@ const items = [
 
 const accountItems = [
   getItem('Account (Louis Charles)', 'sub3', <UserOutlined />, [
-    getItem('Acount Info', '13', <InfoCircleOutlined/>),
+    getItem('Account Info', '13', <InfoCircleOutlined/>),
     getItem('Logout', '14', <LogoutOutlined />),
   ]),
 ]
